@@ -1,0 +1,6 @@
+C:\1экз\задание\задание\bin\Debug\задание.exe.config
+C:\1экз\задание\задание\bin\Debug\задание.exe
+C:\1экз\задание\задание\bin\Debug\задание.pdb
+C:\1экз\задание\задание\obj\Debug\задание.csprojAssemblyReference.cache
+C:\1экз\задание\задание\obj\Debug\задание.exe
+C:\1экз\задание\задание\obj\Debug\задание.pdb
